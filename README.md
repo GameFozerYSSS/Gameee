@@ -1,1 +1,2 @@
-# Gameee
+# Probot ✨
+Epic Discord Bot
